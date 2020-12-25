@@ -25,6 +25,7 @@
 	<modules>
 		<module>spring-tcp-server</module>
 		<module>competitive-programming</module>
+		<module>spring-jpa</module>
 	</modules>
 	<build>
 		<plugins>
