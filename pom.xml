@@ -27,6 +27,7 @@
 		<module>competitive-programming</module>
 		<module>spring-jpa</module>
 		<module>data-structures-algorithms</module>
+		<module>design-patterns</module>
 	</modules>
 	<build>
 		<plugins>
